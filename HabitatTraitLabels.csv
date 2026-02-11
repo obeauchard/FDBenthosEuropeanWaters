@@ -1,0 +1,25 @@
+Column.name,Depth,Substratum
+H1.1,Intertidal,Hard
+H1.2,Intertidal,Mixed hard
+H1.3,Intertidal,Gravel
+H1.4,Intertidal,Sand
+H1.5,Intertidal,Muddy sand
+H1.6,Intertidal,Sandy mud-Mud
+H2.1,Shore,Hard
+H2.2,Shore,Mixed hard
+H2.3,Shore,Gravel
+H2.4,Shore,Sand
+H2.5,Shore,Muddy sand
+H2.6,Shore,Sandy mud-Mud
+H3.1,Shelf,Hard
+H3.2,Shelf,Mixed hard
+H3.3,Shelf,Gravel
+H3.4,Shelf,Sand
+H3.5,Shelf,Muddy sand
+H3.6,Shelf,Sandy mud-Mud
+H4.1,Deep,Hard
+H4.2,Deep,Mixed hard
+H4.3,Deep,Gravel
+H4.4,Deep,Sand
+H4.5,Deep,Muddy sand
+H4.6,Deep,Sandy mud-Mud
